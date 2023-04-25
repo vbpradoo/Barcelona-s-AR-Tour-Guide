@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<VuforiaUnityInfo>
+    <TargetSet toolVersion="" version="6.0"><VuMark name="SagradaFamilia" previewImage="778ceeb5896f475aab2c02fe83995a63_scaled.png" targetId="778ceeb5896f475aab2c02fe83995a63" version="9.0">
+            <Shape bbox2D="0 0 430.59 495.478" origin="215.351 250.169" />
+            <Code IDlength="1" IDtype="string" />
+        </VuMark>
+    </TargetSet>
+</VuforiaUnityInfo>
